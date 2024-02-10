@@ -15,7 +15,7 @@ At its core, this project explores the intriguing concept of utilizing the disti
 
 ## Developed Using:
 
-![Python](https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/-Python-orange?style=for-the-badge&logo=python)
 
 ## Getting Started
 
